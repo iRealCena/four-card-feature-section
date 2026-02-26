@@ -148,6 +148,9 @@ body{
 	.card2{
 		margin: 0px;
 	}
+	.desktop-only{
+		display: none;
+	}
 }
 @media screen and (max-width: 375px){
 	.section2{
@@ -168,4 +171,5 @@ body{
 	.card4 /*Calculator*/, .t1 {
 		margin-bottom: 50px;
 }
+
 }
